@@ -4,12 +4,9 @@
 
 1. [01. 프로젝트 계획서 (Project Plan)](01_Project_Plan.md)
    - 프로젝트 목표, 개발 기간, 인원 및 역할 분담 등 초기 착수 단계의 계획을 담고 있습니다.
-2. [02. 시스템 설계 및 개발 (System Design & Development)](./02_System_Design_Development.md)
 2. [02. 시스템 설계 및 개발 (System Design & Development)](02_System_Design_Development.md)
    - 시스템 아키텍처, 하드웨어/소프트웨어 설계, ROS2 노드 구성 및 세부 구현 내용이 포함되어 있습니다.
-3. [03. 최종 시나리오 (Scenario Final)](./03_Scenario_Final.md)
 3. [03. 최종 시나리오 (Scenario Final)](03_Scenario_Final.md)
    - Leader 로봇과 Follow 로봇이 협력하여 수행하는 최종 주행 및 배송 시나리오를 설명합니다.
-4. [04. 개발 결과 (Development Result)](./04_Development_Result.md)
 4. [04. 개발 결과 (Development Result)](04_Development_Result.md)
    - 프로젝트 최종 성과, 트러블슈팅, 향후 개선 방향 등 프로젝트 마무리 결과 보고서입니다.
