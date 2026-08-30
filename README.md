@@ -1,7 +1,7 @@
 # 🤖 Nav2 및 Marker 기반 협업배송로봇 시스템
 본 프로젝트는 ROS2(Humble)와 TurtleBot3를 기반으로 **Nav2 좌표 주행과 Marker 추종 제어**를 결합하여 구현한 2대의 협업배송로봇시스템 프로젝트입니다.
 아래의 각 항목을 클릭하시면 해당 상세 문서로 이동합니다.
-1. [01. 프로젝트 계획서 (Project Plan)](./01_Project_Plan.md)
+
 1. [01. 프로젝트 계획서 (Project Plan)](01_Project_Plan.md)
    - 프로젝트 목표, 개발 기간, 인원 및 역할 분담 등 초기 착수 단계의 계획을 담고 있습니다.
 2. [02. 시스템 설계 및 개발 (System Design & Development)](./02_System_Design_Development.md)
