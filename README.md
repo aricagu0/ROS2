@@ -10,3 +10,6 @@
    - Leader 로봇과 Follow 로봇이 협력하여 수행하는 최종 주행 및 배송 시나리오를 설명합니다.
 4. [04. 개발 결과 (Development Result)](04_Development_Result.md)
    - 프로젝트 최종 성과, 트러블슈팅, 향후 개선 방향 등 프로젝트 마무리 결과 보고서입니다.
+
+## 🎥 시연 영상
+[![협업배송로봇 시연 영상](http://img.youtube.com/vi/We0hUDvJUzQ/0.jpg)](https://youtu.be/We0hUDvJUzQ)
